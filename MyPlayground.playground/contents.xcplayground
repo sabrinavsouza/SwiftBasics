@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='#08 - Modificadores de Arrays'/>
+        <page name='#09 - Repeat e While'/>
+        <page name='#10 - FOR, RANGE, WHERE E MODULOS'/>
+        <page name='#11 - Iterando em coleções de dados'/>
+        <page name='#12 - BREAK e CONTINUE'/>
+        <page name='#13 - Dictionary'/>
+        <page name='#14 - Coleções com SETS'/>
+        <page name='#15 - Funções'/>
+        <page name='#16 - Opcionais'/>
+        <page name='#17 - Guard Let'/>
+        <page name='#18 - Switch Case'/>
+        <page name='#19 - Functions types'/>
+        <page name='#20 - 4 tipos de funcoes'/>
+        <page name='#21 - WEAK'/>
+    </pages>
+</playground>
